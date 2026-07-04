@@ -6,13 +6,13 @@ This folder contains screenshots of the Power BI dashboard
 
 ## Cover Page
 
-![Cover Page](Dashboard Screenshots/Cover_Page.png)
+![Cover Page](DashboardScreenshots/Cover_Page.png)
 
 ---
 
 ## Executive Summary
 
-![Executive Summary](Dashboard Screenshots/Executive_Summary.png)
+![Executive Summary](DashboardScreenshots/Executive_Summary.png)
 
 ---
 
